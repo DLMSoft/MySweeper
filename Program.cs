@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MySweeper {
+namespace DLMSoft.MySweeper {
     static class Program {
         /// <summary>
         ///  The main entry point for the application.

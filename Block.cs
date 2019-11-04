@@ -1,7 +1,7 @@
 using System;
 using System.Drawing;
 
-namespace MySweeper {
+namespace DLMSoft.MySweeper {
     class Block : IDisposable {
         #region Static members
         public static void LoadResources(Image icons) {

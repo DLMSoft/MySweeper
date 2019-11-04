@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Windows.Forms;
 using System.Linq;
 
-namespace MySweeper {
+namespace DLMSoft.MySweeper {
     public class MainWindow : Form {
         #region Constants
         public const int kCellSize = 20;

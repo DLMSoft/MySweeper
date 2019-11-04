@@ -2,7 +2,7 @@
 using System;
 #endregion
 
-namespace MySweeper {
+namespace DLMSoft.MySweeper {
     enum BlockStatus : uint {
         Normal = 0,
         Flipped,
